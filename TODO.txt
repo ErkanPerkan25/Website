@@ -1,0 +1,17 @@
+Research 
+- Delpoyment?
+- How to show projects on the website?
+
+Backend framework - django
+Frontend framework - React or Node.js
+Database - djangoDB or something else...
+
+TODO:
+- Design for the webiste (html,css,javasacript)
+- Creating on github!
+
+DOING:
+
+COMPLETE:
+- Django Framework (python)
+- Database MongoDB?
