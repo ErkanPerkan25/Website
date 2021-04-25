@@ -1,3 +1,37 @@
 body{
-    background-color:blue;
+    background-color: white;
+    font-family: Courier;
 }
+
+.header{
+    padding: 30px;
+    text-align: center;
+    background-image: url("WebPictures/swim.jpg")
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    padding: 10px 16px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+
+}
+
+li a:hover{
+    background-color: #333333;
+}
+
+
