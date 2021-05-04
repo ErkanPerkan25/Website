@@ -4,7 +4,7 @@ body{
 }
 
 .header{
-    padding: 30px;
+    padding: 25px;
     text-align: center;
     background-image: url("WebPictures/swim.jpg")
 }
@@ -34,4 +34,28 @@ li a:hover{
     background-color: #333333;
 }
 
+.footer{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
 
+.about-me-style{
+    width: 33.33%;
+    padding: 15px;
+    text-align: center;
+    position: absolute;
+    width: 100%
+}
+
+#profile-pic{
+    border-radius: 200px;
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+    position: left;
+}
