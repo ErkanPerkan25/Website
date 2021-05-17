@@ -56,6 +56,18 @@ li a:hover{
     border-radius: 200px;
     height: 200px;
     width: 200px;
-    padding: 10px;
     position: left;
+    transition: width 2s, height 2s;
+
+}
+
+#profile-pic:hover{
+    height: 300px;
+    width: 300px;
+    border-radius: 300px;
+}
+
+#instagram{
+    height: 30px;
+    width: 30px;
 }

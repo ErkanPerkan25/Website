@@ -1,17 +1,20 @@
 Research 
 - Delpoyment?
 - How to show projects on the website?
+- Servers?
 
 Backend framework - django
 Frontend framework - React or Node.js
 Database - djangoDB or something else...
 
+
 TODO:
-- Design for the webiste (html,css,javasacript)
-- Creating on github!
+- Make the instagram icon have a hover effect.
 
 DOING:
+- Design for the webiste (html,css,javasacript)
 
 COMPLETE:
-- Django Framework (python)
+- Django Framework (python) -- Going with this later
+- Creating on github!
 - Database MongoDB?
