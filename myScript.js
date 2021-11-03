@@ -1,0 +1,1 @@
+var spotifyIcon = document.getElementById("spotify-icon").innerHTML;
