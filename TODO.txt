@@ -2,22 +2,27 @@ Research
 - Delpoyment?
 - How to show projects on the website?
 - Servers?
-- Database MongoDB?
+- Database?
+- Fullstack or Fullstack JS? (Backend)
 
 Backend framework - django (dependes later on...)
 Frontend framework - React or Node.js
 Database - djangoDB or other databases (needs more reasearch when the times come)
 
 TODO:
-- Make the instagram icon have a hover effect.
 - Framework?
+- Server?
+- Look at the layout web development (W3school)
+- Connect the project better to github with git
+- Fix the overlapping list (ul).
 
 DOING:
+" The Frontend part"
 - Design for the webiste (html,css,javasacript)
     - Should draw scetch of the website
     - Use javasacript to make website responsive and dynamic
 - Figure out Javascript (classes at Lindenwood)
 
 COMPLETE:
-- Django Framework (python) -- Going with this later
+- Django Framework (python) -- Maybe going with this later
 - Creating on github!

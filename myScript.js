@@ -1,1 +1,5 @@
-var spotifyIcon = document.getElementById("spotify-icon").innerHTML;
+$(document).ready(function(){
+    $("#profile-pic").hide();
+    $("#profile-pic").fadeIn(2500);
+
+});
